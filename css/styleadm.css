@@ -1,0 +1,33 @@
+body{
+    background: url(../img/backgroundadm.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btnsair{
+    border: 2px solid black;
+    padding: 10px; 
+    font-size: 20px;
+    width: 250px;
+    border-radius: 25px;
+    background-color: rgb(71, 145, 28);
+    color: white;
+    text-align: center;
+    margin-left: 720px;
+    margin-top: 50px;
+  }
+  .TTabela{
+    font-size: 25pt;
+    color: white;
+    text-align: center;
+  }
+  .tabela{
+    border: 3px solid rgb(0, 255, 0);
+    text-align: center;
+  }
+  .tabela2{
+    border: 3px solid rgb(0, 255, 0);
+  }
+ .container{
+  margin-left: 450px;
+
+ }

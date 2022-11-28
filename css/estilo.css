@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(105, 175, 140);
+    text-align: center;
+}
+.inputN{
+padding: 10px;
+font-size: 20px;
+margin-top: 40px;
+font-weight: bold;
+color: black;
+
+}
+.btncadastro{
+    padding: 20px;
+    margin-top: 30px;
+   font-weight: bold;
+    color: black;
+    background-color: rgb(176, 247, 220);
+}
+h1{
+color: white;
+margin-top: 30px;
+font-size: 40px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+.logo{
+    padding: 10px;
+}
+.plantinhas{
+    margin-top: -140px;
+    margin-left: 850px;
+
+}
+#dataNasc{
+    width: 270px;
+}

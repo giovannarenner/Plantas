@@ -1,0 +1,59 @@
+body{
+    background: url(../img/background.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    font-size: 50px;
+    border: 3px solid rgb(18, 58, 5);
+    border-radius: 50px;
+    float: right;
+    display: flex;
+    margin-top: -160px;
+    margin-right: 350px;
+    
+    
+}
+.header{
+color: rgb(242, 255, 130);
+font-size: 40px;
+}
+.container{
+    text-align: center;
+}
+.titulo{
+
+    text-align: center;
+}
+h4{
+    font-size: 30px;
+}
+.email{
+
+    padding: 10px;
+}
+.entrar{
+    padding: 10px;
+    
+}
+.inputI{
+   
+    padding: 15px;
+    border: 3px solid green;
+    font-weight: bold;
+}
+.btnentrar{
+    padding: 10px;
+    width: 150px;
+    height: 50px;
+    border: 3px solid green;
+    background-color: rgb(83, 11, 11);
+    font-weight: bold;
+    color: white;
+}
+a{
+  color: green;  
+}
+h3{
+    color: rgb(242, 255, 130);
+}
